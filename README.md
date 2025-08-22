@@ -1,5 +1,5 @@
 
-# 🌲 lesnik — Autonomous Wildfire Detection System
+# 🌲 Lesnik — Autonomous Wildfire Detection System
 
 > **Лесник. Видит дым — реагирует мгновенно.**
 
